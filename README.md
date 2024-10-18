@@ -1,12 +1,12 @@
 # STM32-Smart-Fan
-#Description
-This project focuses on developing an intelligent fan, controlled by a NUCLEO-H7S3L8 microcontroller. The system will use Bluetooth as the primary communication protocol, with a mobile app serving as the main control interface. If time allows, I plan to extend functionality by incorporating Wi-Fi control as well.
+# Description
+This project aims to develop an intelligent fan, controlled by a NUCLEO-H7S3L8 microcontroller. The system will utilize Bluetooth for communication, with a mobile app serving as the primary control interface. If time permits, I plan to add Wi-Fi functionality for both control and monitoring.
 
-The fan will be powered by a DC motor, whose speed will be regulated using Pulse Width Modulation (PWM). Additionally, the system will feature a temperature sensor, and the fan's speed will automatically adjust based on the detected temperature levels. As the project progresses, I aim to explore the potential for additional features, such as scheduling operation intervals or integrating with other smart home devices.
+The fan itself will feature a DC motor, with its speed regulated through PWM (Pulse Width Modulation). Additionally, a temperature sensor will be integrated, allowing the fan’s speed to automatically adjust based on the detected temperature. As the project progresses, and depending on available time, I will explore adding further features, such as integration with other smart devices or additional functionalities.
 
-I plan to work on this project regularly, with weekly updates.
+I plan to work consistently on this project and provide weekly updates.
 
-#Update 1(17.OCT.2024)
+# Update 1(17.OCT.2024)
 I’ve finalized the project topic and ordered the microcontroller. Next, I’ll be deciding on and ordering the remaining components needed for the build.
 
 
