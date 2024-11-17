@@ -1,4 +1,4 @@
-# STM32-Smart-Fan
+# STM32-Smart-Fan(RTOS)
 # Description
 This project aims to develop an intelligent fan, controlled by a NUCLEO-H7S3L8 microcontroller. The system will utilize Bluetooth for communication, with a mobile app serving as the primary control interface. If time permits, I plan to add Wi-Fi functionality for both control and monitoring.
 
